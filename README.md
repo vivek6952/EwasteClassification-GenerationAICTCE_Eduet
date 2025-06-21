@@ -1,0 +1,2 @@
+# EwasteClassification-GenerationAICTCE_Eduet
+E_wasteclassification using ML
